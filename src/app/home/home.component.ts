@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-home',
@@ -7,11 +8,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  title : string = "Bienvenues sur le site de la première chaine Belge";
+  title : string = "Voici les dernières infos";
+  coverImage = '../../assets/RTLinfo.png';
 
-  constructor() { }
+  constructor(private router : Router) { }
 
   ngOnInit(): void {
   }
 
+
+  logout(){
+    this.router.navigate(['login']); 
+  }
 }

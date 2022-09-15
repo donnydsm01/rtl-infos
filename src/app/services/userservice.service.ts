@@ -86,7 +86,7 @@ export class UserserviceService {
   constructor(private http : HttpClient) { }
 
   getUsers() :Observable<User[]>{
-
+    // retourne un Observable.
     return of(this.users);  
     //return this.http.get<User[]>(this.userURL); 
   }
@@ -98,4 +98,6 @@ export class UserserviceService {
       return 404;
     }
   }
+
+  
 }

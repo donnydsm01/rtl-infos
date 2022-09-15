@@ -21,11 +21,11 @@ export class LoginComponent implements OnInit {
   }
 
 
-  login(){
+  login(){ 
     //this.router.navigate(['users']);
     let response = this.auth.login(this.username,this.password);
       if(response === 200){
-        this.router.navigate(['users']);
+        this.router.navigate(['home']);
       }
       if(response === 404){
         this.router.navigate(['login']); 
@@ -33,4 +33,6 @@ export class LoginComponent implements OnInit {
         this.errorMessage = "Mauvais pseudo ou mot de passe";
       }
   }
+
+ 
 }
