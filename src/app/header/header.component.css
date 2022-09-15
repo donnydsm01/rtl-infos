@@ -1,0 +1,8 @@
+a{
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 80px;
+    padding: 5px;
+}

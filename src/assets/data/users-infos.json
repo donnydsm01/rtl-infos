@@ -1,0 +1,72 @@
+[
+    {
+        "firstname" : "Iron",
+        "lastname" :"Man",
+        "address" :"New York, USA",
+        "photo" :"https://www.ecranlarge.com/media/cache/1600x1200/uploads/image/001/013/iron-man-photo-robert-downey-jr-1013575.jpg",
+        "description" :"Jonathan's name is always used by programmers even for stupidy"
+    },
+    {
+        "firstname" : "Elon",
+        "lastname" :"Musk",
+        "address" :"California,USA",
+        "photo" :"https://www.lalibre.be/resizer/TXCn4TwpZ8U7FD3C1KOeFyz8e4c=/0x0:2560x1705/768x512/cloudfront-eu-central-1.images.arcpublishing.com/ipmgroup/QQ47PVHC4FGTRHGAKWJV3UU7OA.jpg",
+        "description" :"Elon is an inventor and a Software dev, boss of SpaceX and Tesla"
+    },
+    {
+        "firstname" : "Fally",
+        "lastname" :"Ipupa", 
+        "address" :"Bandal, Kinshasa",
+        "photo" :"https://i0.wp.com/mbote.cd/app/uploads/2022/02/fally-ipupa-en-hollantex-une.jpeg?fit=1200%2C816&ssl=1",
+        "description" :"A Congolese singer and dancer known as Dicaprio la merveille"
+    },
+    {
+        "firstname" : "Natacha",
+        "lastname" :"Romanov",
+        "address" :"Saint Petersbourg,Russia",
+        "photo" :"https://www.tomsguide.fr/content/uploads/sites/2/2021/07/black-widow-60e30f229c14c-1024x684.jpg",
+        "description" :"Natacha is a badass assassin that can kill almos everybody to save the world"
+    },
+    {
+        "firstname" : "Jonathan",
+        "lastname" :"Doe",
+        "address" :"Bruxelles city, Uccle",
+        "photo" :"",
+        "description" :"Jonathan's name is always used by programmers even for stupidy"
+    },
+    {
+        "firstname" : "Jonathan",
+        "lastname" :"Doe",
+        "address" :"Bruxelles city, Uccle",
+        "photo" :"",
+        "description" :"Jonathan's name is always used by programmers even for stupidy"
+    },
+    {
+        "firstname" : "Jonathan",
+        "lastname" :"Doe",
+        "address" :"Bruxelles city, Uccle",
+        "photo" :"",
+        "description" :"Jonathan's name is always used by programmers even for stupidy"
+    },
+    {
+        "firstname" : "Jonathan",
+        "lastname" :"Doe",
+        "address" :"Bruxelles city, Uccle",
+        "photo" :"",
+        "description" :"Jonathan's name is always used by programmers even for stupidy"
+    },
+    {
+        "firstname" : "Jonathan",
+        "lastname" :"Doe",
+        "address" :"Bruxelles city, Uccle",
+        "photo" :"",
+        "description" :"Jonathan's name is always used by programmers even for stupidy"
+    },
+    {
+        "firstname" : "Jonathan",
+        "lastname" :"Doe",
+        "address" :"Bruxelles city, Uccle",
+        "photo" :"",
+        "description" :"Jonathan's name is always used by programmers even for stupidy"
+    }
+]

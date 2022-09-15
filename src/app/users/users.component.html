@@ -1,0 +1,11 @@
+<div class="card-container">
+    <div class="card" style="width: 18rem;" *ngFor="let user of users">
+      <img class="card-img-top" [src]="user.photo" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title"> {{ user.firstname }} {{ user.lastname }}  </h5>
+        <span> {{ user.address }} </span>
+        <p class="card-text"> {{ user.description }} </p> 
+        <a href="#" class="btn btn-primary">Cliquez pour lire l'info complète</a>
+      </div>
+    </div>
+</div>
