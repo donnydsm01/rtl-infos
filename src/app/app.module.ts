@@ -12,7 +12,8 @@ import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
-import { UsersComponent } from './users/users.component'; 
+import { UsersComponent } from './users/users.component';
+import { UserDescriptionComponent } from './user-description/user-description.component'; 
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { UsersComponent } from './users/users.component';
     RegisterComponent,
     HeaderComponent,
     FooterComponent,
-    UsersComponent
+    UsersComponent,
+    UserDescriptionComponent
   ],
   imports: [
     BrowserModule,
